@@ -91,6 +91,8 @@ Endpoint: POST /predict/probabilities
 Mesmo corpo do batch para retornar predict_proba
 
 ## Ideias de Melhoria
+Melhoria da documentação
+
 Validação Avançada de Dados
 
 Verificar se o .csv contém a coluna-alvo informada ou se tem linhas vazias.
